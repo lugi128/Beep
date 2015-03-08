@@ -1,0 +1,25 @@
+c:\users\admin\documents\visual studio 2013\Projects\Beep\Beep\bin\Debug\Beep.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Beep\Beep\obj\Debug\Beep.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Beep\Beep\bin\Debug\Beep.exe
+c:\users\admin\documents\visual studio 2013\Projects\Beep\Beep\bin\Debug\Beep.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Beep\Beep\obj\Debug\Beep.exe
+c:\users\admin\documents\visual studio 2013\Projects\Beep\Beep\obj\Debug\Beep.pdb
+H:\CFPT\Programmation\Csharp\Console\Beep\Beep\bin\Debug\Beep.exe.config
+H:\CFPT\Programmation\Csharp\Console\Beep\Beep\bin\Debug\Beep.exe
+H:\CFPT\Programmation\Csharp\Console\Beep\Beep\bin\Debug\Beep.pdb
+H:\CFPT\Programmation\Csharp\Console\Beep\Beep\obj\Debug\Beep.exe
+H:\CFPT\Programmation\Csharp\Console\Beep\Beep\obj\Debug\Beep.pdb
+E:\CFPT\Programmation\Csharp\Console\Beep\Beep\bin\Debug\Beep.exe.config
+E:\CFPT\Programmation\Csharp\Console\Beep\Beep\bin\Debug\Beep.exe
+E:\CFPT\Programmation\Csharp\Console\Beep\Beep\bin\Debug\Beep.pdb
+E:\CFPT\Programmation\Csharp\Console\Beep\Beep\obj\Debug\Beep.exe
+E:\CFPT\Programmation\Csharp\Console\Beep\Beep\obj\Debug\Beep.pdb
+F:\CFPT\Programmation\Csharp\Console\Beep\Beep\bin\Debug\Beep.exe.config
+F:\CFPT\Programmation\Csharp\Console\Beep\Beep\obj\Debug\Beep.exe
+F:\CFPT\Programmation\Csharp\Console\Beep\Beep\obj\Debug\Beep.pdb
+F:\CFPT\Programmation\Csharp\Console\Beep\Beep\bin\Debug\Beep.exe
+F:\CFPT\Programmation\Csharp\Console\Beep\Beep\bin\Debug\Beep.pdb
+F:\CFPT\Programmation\Csharp\Console\Beep\Beep\obj\Debug\Beep.csprojResolveAssemblyReference.cache
+G:\CFPT\Programmation\Csharp\Console\Beep\Beep\bin\Debug\Beep.exe.config
+G:\CFPT\Programmation\Csharp\Console\Beep\Beep\obj\Debug\Beep.exe
+G:\CFPT\Programmation\Csharp\Console\Beep\Beep\obj\Debug\Beep.pdb

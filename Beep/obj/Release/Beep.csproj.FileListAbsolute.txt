@@ -1,0 +1,1 @@
+G:\CFPT\Programmation\Csharp\Console\Beep\Beep\bin\Release\Beep.exe.config
